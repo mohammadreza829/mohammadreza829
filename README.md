@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I’m a second-year Computer Engineering student who loves building dynamic, scalable websites and applications. I’m comfortable with Python 🐍, HTML 📄, CSS 🎨, and JavaScript ⚙️, and I’ve used these skills in projects that connect to MongoDB 🗄️ and create RESTful APIs with JavaScript.<br><br>Right now, I’m diving into Django 🏗️, data analysis 📊, and machine learning 🤖 to grow my toolkit. I’m always up for collaborating on interesting projects, writing clean code, and learning something new every day! 🚀
-now i fell in love with H
+
 
 
 ## 🌐 Socials:
