@@ -1,12 +1,14 @@
-<!-- Animated Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammadreza%20Fasli&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20Python%20%26%20Django%20%E2%80%A2%20ML%20Explorer&descAlignY=72&descSize=20)
-
+<!-- Custom Animated Header (hosted in this repo — always loads!) -->
 <div align="center">
 
+<img src="assets/header.svg" width="100%" alt="Mohammadreza Fasli — Backend Developer"/>
+
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammadreza+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+REST+APIs+%26+Real+Platforms;Now+exploring+Machine+Learning+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammadreza+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+REST+APIs+%26+Real+Platforms;Now+exploring+Machine+Learning+%F0%9F%A4%96)](https://readme-typing-svg.demolab.com)
 
 <!-- Badges Row -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadreza829&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/mohammadreza829?style=for-the-badge&logo=github&color=blue)](https://github.com/mohammadreza829?tab=followers)
 [![Website](https://img.shields.io/badge/Website-mrfasli.ir-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrfasli.ir)
@@ -47,15 +49,18 @@ me.say_hi()
 <div align="center">
 
 ### Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Learning
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -80,57 +85,28 @@ me.say_hi()
 | 🏫 **[School Management System](https://github.com/mohammadreza829/django_SchoolManagementSystem)** | Django-based school management platform |
 | 🐭 **[Mouse Maze Pathfinder](https://github.com/mohammadreza829/mouse-maze-pathfinder)** | Pathfinding algorithms visualized in a maze solver |
 
-<div align="center">
-
-[![Weblog](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=weblog&theme=tokyonight)](https://github.com/mohammadreza829/weblog)
-[![Mouse Maze](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=mouse-maze-pathfinder&theme=tokyonight)](https://github.com/mohammadreza829/mouse-maze-pathfinder)
-[![School Management](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=django_SchoolManagementSystem&theme=tokyonight)](https://github.com/mohammadreza829/django_SchoolManagementSystem)
-[![ContactBook](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=contactbook&theme=tokyonight)](https://github.com/mohammadreza829/contactbook)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadreza829&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza829&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=mohammadreza829&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
+<br><br>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadreza829&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadreza829&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza829&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadreza829&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mohammadreza829)
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Contribution Chart](https://ghchart.rshah.org/36bcf7/mohammadreza829)](https://github.com/mohammadreza829)
 
 </div>
 
@@ -148,7 +124,6 @@ me.say_hi()
 
 ### ⭐️ If you like my projects, give them a star!
 
-</div>
+<img src="assets/footer.svg" width="100%" alt="Footer"/>
 
-<!-- Animated Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+</div>
