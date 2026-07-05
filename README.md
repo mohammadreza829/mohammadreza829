@@ -1,30 +1,154 @@
-# Hi, I'm Mohammadreza 👋
+<!-- Animated Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammadreza%20Fasli&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20Python%20%26%20Django%20%E2%80%A2%20ML%20Explorer&descAlignY=72&descSize=20)
 
-I'm a Computer Engineering student who got into backend development and stuck with it. Most of what I build is with Python and Django — starting from small practice apps and slowly working my way up to full platforms with REST APIs, authentication, and real database design.
+<div align="center">
 
-Right now I'm heading toward machine learning: training models and, just as importantly, figuring out how to actually serve them behind an API instead of leaving them sitting in a notebook.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammadreza+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+REST+APIs+%26+Real+Platforms;Now+exploring+Machine+Learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-### 🛠 What I work with
+<!-- Badges Row -->
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadreza829&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/mohammadreza829?style=for-the-badge&logo=github&color=blue)](https://github.com/mohammadreza829?tab=followers)
+[![Website](https://img.shields.io/badge/Website-mrfasli.ir-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrfasli.ir)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadrezafasli1234@gmail.com)
 
-- **Language:** Python
-- **Backend:** Django, Django REST Framework
-- **Databases:** PostgreSQL, SQLite
-- **Tools:** Git & GitHub
-- **Currently learning:** Machine Learning & Deep Learning
+</div>
 
-### 📌 A few things I've built
+---
 
-- **MaktabPlus** — an online learning platform (LMS) split into several Django apps: courses & lessons, race-condition-safe enrollment, quizzes, per-course chat, and an AI study assistant.
-- **Weblog** — a Persian, RTL-first blog platform with a full editorial workflow, comments, and a ticket-based support system.
-- **Appointment & Booking system** — a Django REST API paired with a React frontend for booking appointments and hotel stays.
-- **Instagram-style social app** — image uploads, a follow system, a feed, likes, and comments.
-- **ContactBook** — a small Django app I put together while learning the fundamentals.
+## 🚀 About Me
 
-### 📊 GitHub stats
+```python
+class Mohammadreza:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.education = "Computer Engineering Student"
+        self.language_spoken = ["fa_IR", "en_US"]
+        self.stack = ["Python", "Django", "DRF", "PostgreSQL"]
+        self.currently_learning = ["Machine Learning", "Deep Learning"]
 
-![Mohammadreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadreza829&show_icons=true)
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool 🚀")
 
-### 📫 Get in touch
 
-- 📧 mohammadrezafasli1234@gmail.com
-- 🌐 [mrfasli.ir](https://mrfasli.ir)
+me = Mohammadreza()
+me.say_hi()
+```
+
+- 🎓 I'm a **Computer Engineering student** who got into backend development and stuck with it
+- 🐍 Most of what I build is with **Python & Django** — from small practice apps to full platforms with REST APIs, authentication, and real database design
+- 🤖 Currently heading toward **Machine Learning**: training models and figuring out how to actually **serve them behind an API** instead of leaving them in a notebook
+- 🌐 Check out my website: [mrfasli.ir](https://mrfasli.ir)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Learning
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,git,github,vscode,linux&perline=8" alt="Skill Icons" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| 🚀 Project | 📝 Description |
+|-----------|----------------|
+| 🎓 **MaktabPlus** | Online learning platform (LMS) split into several Django apps: courses & lessons, race-condition-safe enrollment, quizzes, per-course chat, and an AI study assistant |
+| ✍️ **[Weblog](https://github.com/mohammadreza829/weblog)** | Persian, RTL-first blog platform with a full editorial workflow, comments, and a ticket-based support system |
+| 📅 **Appointment & Booking** | Django REST API paired with a React frontend for booking appointments and hotel stays |
+| 📸 **Instagram-style social app** | Image uploads, follow system, feed, likes, and comments |
+| 🏫 **[School Management System](https://github.com/mohammadreza829/django_SchoolManagementSystem)** | Django-based school management platform |
+| 🐭 **[Mouse Maze Pathfinder](https://github.com/mohammadreza829/mouse-maze-pathfinder)** | Pathfinding algorithms visualized in a maze solver |
+
+<div align="center">
+
+[![Weblog](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=weblog&theme=tokyonight)](https://github.com/mohammadreza829/weblog)
+[![Mouse Maze](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=mouse-maze-pathfinder&theme=tokyonight)](https://github.com/mohammadreza829/mouse-maze-pathfinder)
+[![School Management](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=django_SchoolManagementSystem&theme=tokyonight)](https://github.com/mohammadreza829/django_SchoolManagementSystem)
+[![ContactBook](https://github-readme-stats.vercel.app/api/pin/?username=mohammadreza829&repo=contactbook&theme=tokyonight)](https://github.com/mohammadreza829/contactbook)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadreza829&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza829&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=mohammadreza829&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadreza829&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadreza829&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mohammadreza829)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_mrfasli.ir-4285F4?style=for-the-badge)](https://mrfasli.ir)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadrezafasli1234@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadreza829)
+
+<br>
+
+### ⭐️ If you like my projects, give them a star!
+
+</div>
+
+<!-- Animated Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
