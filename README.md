@@ -11,7 +11,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadreza829&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/mohammadreza829?style=for-the-badge&logo=github&color=blue)](https://github.com/mohammadreza829?tab=followers)
-[![Website](https://img.shields.io/badge/Website-mrfasli.ir-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrfasli.ir)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadrezafasli1234@gmail.com)
 
 </div>
@@ -40,7 +39,6 @@ me.say_hi()
 - 🎓 I'm a **Computer Engineering student** who got into backend development and stuck with it
 - 🐍 Most of what I build is with **Python & Django** — from small practice apps to full platforms with REST APIs, authentication, and real database design
 - 🤖 Currently heading toward **Machine Learning**: training models and figuring out how to actually **serve them behind an API** instead of leaving them in a notebook
-- 🌐 Check out my website: [mrfasli.ir](https://mrfasli.ir)
 
 ---
 
@@ -93,11 +91,6 @@ me.say_hi()
 
 <img src="https://streak-stats.demolab.com?user=mohammadreza829&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadreza829&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza829&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 </div>
 
 ---
@@ -116,7 +109,6 @@ me.say_hi()
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_mrfasli.ir-4285F4?style=for-the-badge)](https://mrfasli.ir)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadrezafasli1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadreza829)
 
